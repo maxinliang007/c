@@ -1,5 +1,3 @@
-//简化版，去掉无用code
-//测试版file.c
 
 #include <stdio.h>
 #include <stdlib.h>
